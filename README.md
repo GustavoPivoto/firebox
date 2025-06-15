@@ -34,10 +34,10 @@ Projeto desenvolvido por:
 
 ## Estrutura Física
 ### Visão Geral do Dispositivo:
-![Visão Geral do Dispositivo](imagens/visao-geral-do-dispositivo.png)
+![Visão Geral do Dispositivo](imagens/visao-geral-do-dispositivo.jpg)
 
 ### Circuito Interno:
-![Circuito Interno](imagens/circuito-interno.png)
+![Circuito Interno](imagens/circuito-interno.jpg)
 
 ---
 

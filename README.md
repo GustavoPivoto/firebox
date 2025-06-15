@@ -17,7 +17,7 @@ Projeto desenvolvido por:
   - LED verde: Inicialização.
   - LED amarelo: Detecção de gás.
   - LED vermelho: Detecção de chama ou simultaneamente gás e fogo.
-  - Buzzer: Sinalização sonora (intermitente ou contínua).
+  - Buzzer: Sinalização sonora.
 
 ---
 
@@ -34,10 +34,10 @@ Projeto desenvolvido por:
 
 ## Estrutura Física
 ### Visão Geral do Dispositivo:
-![Visão Geral do Dispositivo](./WhatsApp%20Image%202025-06-15%20at%2013.53.04_1532685c.jpg)
+![Visão Geral do Dispositivo](imagens/visao-geral-do-dispositivo.png)
 
 ### Circuito Interno:
-![Circuito Interno](./WhatsApp%20Image%202025-06-15%20at%2013.53.04_953871eb.jpg)
+![Circuito Interno](imagens/circuito-interno.png)
 
 ---
 

@@ -49,3 +49,13 @@ Projeto desenvolvido por:
 - LEDs: Verde, Amarelo e Vermelho
 - Protoboard
 - Jumpers
+
+---
+
+## Como Executar
+
+1. Clone o repositório.
+2. Abra o arquivo `fw-firebox.ino` na Arduino IDE.
+3. Faça o upload para o Arduino Uno.
+4. Conecte os sensores, LEDs e buzzer conforme o esquema do circuito.
+5. Energize o sistema.
